@@ -1,0 +1,3 @@
+<%@ Register TagPrefix="dxlp" Namespace="DevExpress.Web.ASPxLoadingPanel" Assembly="DevExpress.Web.v10.2" %>
+<dxlp:ASPxLoadingPanel runat="server" CssPostfix="xaf" ImageFolder="~/App_Themes/XafDefault/{0}/">
+</dxlp:ASPxLoadingPanel>
