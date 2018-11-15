@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebAllowSortListViewController.cs](./CS/WinWebSolution.Module.Web/WebAllowSortListViewController.cs) (VB: [WebAllowSortListViewController.vb](./VB/WinWebSolution.Module.Web/WebAllowSortListViewController.vb))
+* [WinAllowSortListViewController.cs](./CS/WinWebSolution.Module.Win/WinAllowSortListViewController.cs) (VB: [WinAllowSortListViewController.vb](./VB/WinWebSolution.Module.Win/WinAllowSortListViewController.vb))
+* **[AllowSortListViewController.cs](./CS/WinWebSolution.Module/AllowSortListViewController.cs) (VB: [AllowSortListViewController.vb](./VB/WinWebSolution.Module/AllowSortListViewController.vb))**
+* [Demo.cs](./CS/WinWebSolution.Module/Demo.cs) (VB: [Demo.vb](./VB/WinWebSolution.Module/Demo.vb))
+* [ModelExtenders.cs](./CS/WinWebSolution.Module/ModelExtenders.cs) (VB: [ModelExtenders.vb](./VB/WinWebSolution.Module/ModelExtenders.vb))
+* [Module.cs](./CS/WinWebSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinWebSolution.Module/Module.vb))
+<!-- default file list end -->
 # How to prevent sorting and grouping by certain columns in a ListView
 
 
