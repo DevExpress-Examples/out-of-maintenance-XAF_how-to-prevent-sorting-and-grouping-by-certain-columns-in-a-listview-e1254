@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ListViewColumnOptionsController.cs](./CS/WinWebSolution.Module/ListViewColumnOptionsController.cs) (VB: [ListViewColumnOptionsController.vb](./VB/WinWebSolution.Module/ListViewColumnOptionsController.vb))
+* **[Module.cs](./CS/WinWebSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinWebSolution.Module/Module.vb))**
+* [TestObject.cs](./CS/WinWebSolution.Module/TestObject.cs) (VB: [TestObject.vb](./VB/WinWebSolution.Module/TestObject.vb))
+<!-- default file list end -->
 # How to prevent sorting and grouping by certain columns in a ListView
 
 
