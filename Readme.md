@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to prevent sorting and grouping by certain columns in a ListView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1254)**
+**[[Run Online]](https://codecentral.devexpress.com/e1254/)**
 <!-- run online end -->
 
 
